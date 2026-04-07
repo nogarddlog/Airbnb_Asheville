@@ -52,7 +52,7 @@ highest listing concentration and activity.
 - 340 listings have no price data, suggesting incomplete market visibility
 
 ## Dashboard
-[Watch Dashboard Walkthrough](paste video link here)
+[Watch Dashboard Walkthrough](https://www.youtube.com/watch?v=DiSzcgkABgI)
 
 ## Preview
 ![Overall](screenshots/overall.png)
