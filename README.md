@@ -5,6 +5,9 @@ This analysis responds to a market expansion brief exploring Asheville, NC
 as a potential Airbnb target market. The dataset covers 2,876 listings and 
 319K total reviews sourced from Inside Airbnb.
 
+## Credit
+Dataset and analysis brief provided by [Analyst Builder](https://www.analystbuilder.com/projects/asheville-airbnb-listings-analysis-hQNaU?tab=details).
+
 ## Tools Used
 - MySQL (data preparation, validation, and analysis)
 - Power BI (visualization and dashboard)
